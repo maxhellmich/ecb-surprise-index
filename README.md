@@ -17,12 +17,12 @@ Central bank announcements move markets to the extent that they contain *new* in
 
 | Market | Factor | R² | p-value |
 |---|---|---|---|
-| Bund (EXHD.DE) | Combined | 0.176 | 2.1e-08 |
-| Bund (EXHD.DE) | Level | 0.166 | — |
-| Bund (EXHD.DE) | Slope | 0.155 | — |
-| EuroStoxx50 | Combined | 0.138 | — |
-| EuroStoxx50 | Level | 0.136 | — |
-| EuroStoxx50 | Slope | 0.080 | — |
+| Bund (EXHD.DE) | Combined | 0.176 | 3.03e-06 |
+| Bund (EXHD.DE) | Level | 0.166 | 2.36e-06 |
+| Bund (EXHD.DE) | Slope | 0.155 | 0.00198 |
+| EuroStoxx50 | Combined | 0.138 | 0.00625 |
+| EuroStoxx50 | Level | 0.136 | 0.00667 |
+| EuroStoxx50 | Slope | 0.080 | 0.0159 |
 
 Larger ECB surprises are associated with significantly larger same-day moves in both markets. The gap between Level and Slope explanatory power is notably wider for equities than for bonds, suggesting Forward-Guidance/Timing surprises matter relatively more for the rates market.
 
